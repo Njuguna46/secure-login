@@ -1,0 +1,18 @@
+# Sensitive config
+.env
+config/database.php
+config/credentials.php
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Deps
+vendor/
+node_modules/
+
